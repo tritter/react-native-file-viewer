@@ -6,14 +6,12 @@
   "types": "index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "windows": "react-native run-windows"
   },
   "keywords": [
     "react-native",
     "mobile",
     "ios",
     "android",
-    "windows",
     "file",
     "viewer",
     "preview",
